@@ -7,6 +7,6 @@ use PHPUnit\Framework\TestCase;
 class UnitTest extends TestCase {
 
 	public function testOneEqualsOne() {
-		self::assertEquals(1, 1);
+		self::assertEquals(1, 2);
 	}
 }
